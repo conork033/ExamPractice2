@@ -13,8 +13,8 @@ public class StudentListTest{
  @BeforeEach
     void setup()
  {
-     Student = new Student("Conor","ck@gmit");
-     myList = new StudentList();
+     Student = new Student("Conor","ck@gmit");//tets
+     myList = new StudentList();//Hiifjwei
  }
 
  @Test
