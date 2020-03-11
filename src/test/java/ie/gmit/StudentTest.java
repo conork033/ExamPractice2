@@ -14,7 +14,7 @@ public class StudentTest{
    {
        Student myStudent = new Student("Conor","ck@gmit");
        assertEquals("Conor",myStudent.getName());
-       assertEquals("ck@gmit",myStudent.getEmail());
+       assertEquals("ck@gmit",myStudent.getEmail());//hrtfhrt
    }
    @Test
     void testConstructorNoName(){

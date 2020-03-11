@@ -26,7 +26,7 @@ public class StudentListTest{
 
  @Test
     void testfindName(){
-     myList.add(Student);
+     myList.add(Student);//bhgfgbh
      assertEquals(Student, myList.findName("Conor"));
 
 
